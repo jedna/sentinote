@@ -28,7 +28,11 @@ Sentinote provides a complete Evernote integration solution for WordPress. It al
 
 * An Evernote account.  
 * A self-/hosted WordPress website (Not a WordPress.com website. They don’t support 3rd party plugins)  
-* Evernote’s tools require that your website runs PHP 5.3 or higher. Most hosting providers meet this requirement although some hosts do not enable this by default. A simple support ticket to your provider will do the trick.  
+* Evernote’s tools require that your website runs PHP 5.3 or higher. Most hosting providers meet this requirement although some hosts do not enable this by default. A simple support ticket to your provider will do the trick. 
+
+### Documentation: 
+
+Sentinote documentation can be found at <http://sentinote.com/documentation/>  
 
 == Installation ==
 After installing you will need to get an Evernote Developer token.
