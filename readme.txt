@@ -1,5 +1,5 @@
 === Sentinote ===
-Contributors: 196870
+Contributors: rheinardkorf
 Tags: evernote, integration, autoblog
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NMW2QPREEXL48
 Requires at least: 3.2
