@@ -4,7 +4,7 @@ Tags: evernote, integration, autoblog
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NMW2QPREEXL48
 Requires at least: 3.2
 Tested up to: 3.9
-Stable tag: trunk
+Stable tag: 1.1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Sentinote converts your notes into WordPress posts or pages. Keep using Evernote and when you’re ready to publish assign the “published” tag.
