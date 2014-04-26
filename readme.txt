@@ -47,7 +47,10 @@ You need to be running PHP 5.3 or higher.
 Make sure that you have typed your Evernote notebook name exactly as it appears in Evernote.  Also make sure that your note is tagged with \'published\'.  
 
 **Can I use Evernote for Business?**  
-You can use an Evernote for Business account, but at the moment Sentinote does not work with Business Notebooks.
+You can use an Evernote for Business account, but at the moment Sentinote does not work with Business Notebooks.  
+
+**Help! Parts of my notes are disappearing in WordPress.**  
+This is a known Evernote issue thats been bugging people for a long time (since 2010). Each Evernote client embeds its own syntax into the notes to make use of the features of the clients. The most notable client to create issues is the Windows client. See <http://sentinote.com/2014/04/windows-users/> for some help.
 
 == Screenshots ==
 1. Sentinote Core Settings
