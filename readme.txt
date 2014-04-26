@@ -4,7 +4,7 @@ Tags: evernote, integration, autoblog
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NMW2QPREEXL48
 Requires at least: 3.2
 Tested up to: 3.9
-Stable tag: trunk
+Stable tag: 1.1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Sentinote converts your notes into WordPress posts or pages. Keep using Evernote and when you’re ready to publish assign the “published” tag.
@@ -28,7 +28,11 @@ Sentinote provides a complete Evernote integration solution for WordPress. It al
 
 * An Evernote account.  
 * A self-/hosted WordPress website (Not a WordPress.com website. They don’t support 3rd party plugins)  
-* Evernote’s tools require that your website runs PHP 5.3 or higher. Most hosting providers meet this requirement although some hosts do not enable this by default. A simple support ticket to your provider will do the trick.  
+* Evernote’s tools require that your website runs PHP 5.3 or higher. Most hosting providers meet this requirement although some hosts do not enable this by default. A simple support ticket to your provider will do the trick. 
+
+### Documentation: 
+
+Sentinote documentation can be found at <http://sentinote.com/documentation/>  
 
 == Installation ==
 After installing you will need to get an Evernote Developer token.
