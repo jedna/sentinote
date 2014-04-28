@@ -11,6 +11,8 @@ Sentinote converts your notes into WordPress posts or pages. Keep using Evernote
 == Description ==
 Sentinote provides a complete Evernote integration solution for WordPress. It allows you to quickly make changes to your website or blog by simply typing notes inside Evernote.
 
+### Note: Seeking contributor. 
+
 ### Features:  
 
 * Easy publishing to your WordPress website using Evernote.  
